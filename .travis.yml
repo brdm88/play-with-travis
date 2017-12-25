@@ -5,5 +5,5 @@ python:
 
 script: python -m unittest
 
- notifications:
-    slack: devops-team-otus:EbBXwfcKlFS1yMYwCTqlcwcb
+notifications:
+slack: devops-team-otus:EbBXwfcKlFS1yMYwCTqlcwcb
